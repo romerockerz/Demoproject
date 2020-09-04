@@ -1,4 +1,9 @@
+
 Chemical Engineering
 Mettalurgy 
 Mathematics
 Humanities
+=======
+Physics
+Chemistry 
+
