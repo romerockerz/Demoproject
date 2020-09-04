@@ -1,9 +1,3 @@
-
-Chemical Engineering
-Mettalurgy 
-Mathematics
-Humanities
-=======
-Physics
-Chemistry 
-
+Mechanical Engineering
+Electrical Engineering
+Computer Science
